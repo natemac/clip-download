@@ -11,4 +11,8 @@
 
 5. create a new folder in the root called "hd"
 
-5. `python download.py`
+6. `pip install -r requirments.txt`
+
+7. `python -m pip install requests`
+
+8. `python download.py`
